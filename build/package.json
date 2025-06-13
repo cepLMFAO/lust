@@ -1,0 +1,21 @@
+{
+  "name": "build",
+  "version": "5.0",
+  "main": "index.js",
+  "dependencies": {
+    "better-sqlite3": "^9.1.1",
+    "buffer-replace": "^1.0.0",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.3",
+    "ini": "^4.1.1",
+    "ip": "^1.1.8",
+    "is-docker": "2.2.1",
+    "js-yaml": "^4.1.0",
+    "psl": "^1.9.0",
+    "punycode": "^2.3.0",
+    "tar": "^6.2.0",
+    "tmp": "^0.2.1",
+    "wincrypt": "1.1.0"
+  },
+  "private": "true"
+}
